@@ -1,0 +1,32 @@
+body{
+    background-color: blanchedalmond;
+}
+
+
+#show_sketch{
+    float: right;
+}
+
+.your_sketh{
+    font-size: 25px;
+    margin-left: 105px;
+}
+
+p{
+    padding-top: 10px;
+    font-size: 25px;
+}
+
+.draw{
+    color: red;
+}
+
+#score{
+    font-size: 30px;
+
+}
+
+#timer{
+    margin-left: 1125px;
+    font-size: 30px;
+}
